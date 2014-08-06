@@ -43,7 +43,7 @@ static const struct {
 	void (* error)(string mesage);
 } jferreirajr = {
 	jferreirajr__malloc,
-	jferreirajr__error,
+	jferreirajr__error
 };
 
 #endif
